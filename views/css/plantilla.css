@@ -1,0 +1,25 @@
+.datetime {
+    color: #ffffff !important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+}
+
+.dateday {
+    color: #ffffff !important;
+    font-size: 10px !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    display: block !important;
+    vertical-align: center !important;
+    padding-right: 5px !important;
+    text-align: right !important;
+}
+
+.ui-autocomplete li:hover{
+    color: #fff !important;
+    background: #17a2b8 !important;
+    border-radius: 3px;
+    margin: 4px;
+    padding: 10px;
+    font-weight: bold;
+}
